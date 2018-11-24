@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Marciel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_96b354a6f2250800e7a84bfbfcda875441f5e1bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_d3dc4ea8d1ac74f58ad92760d12e346b5bdf6e2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marciel\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.13.0_5ac87caf371c347a5b05ec02403aac0f65dfdcc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marciel\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\picasso-2.5.2_84627465778969f86f408028aa7dbf1e942b6792.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_f0bab7f66e872fd78e67cf62e1fe26f128a1faa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marciel\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_0d9c9e4fbf49c5b7747fcf6cb0708e5ff1bfcd34.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_458a22a5840c61df08e607a1b14752b289c95f9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Marciel\Desktop\Instagram\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_a7615a20e2c5a8fee81e73c0733b2d356008195c.jar" />
+    </item>
+
+</items>
